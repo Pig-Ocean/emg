@@ -1,0 +1,7 @@
+streamlit
+torch
+numpy
+pandas
+scipy
+joblib
+plotly
