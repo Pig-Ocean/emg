@@ -6,4 +6,4 @@ pandas
 scipy
 joblib
 plotly
-scikit-learn
+scikit-learn==1.3.2
